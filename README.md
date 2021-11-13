@@ -1,15 +1,20 @@
 <div style="justify-items: center;" align="center">
-    <pre>
-   d8b                     d8b                          
- 88P                     ?88                          
-d88                       88b                         
-888  ?88   d8P   88bd88b  888888b ?88   d8P   88bd88b 
-?88  d88   88    88P'  `  88P `?8bd88   88    88P' ?8b
- 88b ?8(  d88   d88      d88   88P?8(  d88   d88   88P
-  88b`?88P'?8b d88'     d88'   88b`?88P'?8b d88'   88b
-            )88                          )88          
-           ,d8P                         ,d8P          
-        `?888P'                      `?888P'      
+    <pre>                                                                
+ ,dPYb,            ,dPYb,                                        
+ IP'`Yb            IP'`Yb                                        
+ I8  8I            I8  8I                                        
+ I8  8'            I8  8'                                        
+ I8 dP  gg     gg  I8 dPgg,    ,gggggg,  gg     gg   ,ggg,,ggg,  
+ I8dP   I8     8I  I8dP" "8I   dP""""8I  I8     8I  ,8" "8P" "8, 
+ I8P    I8,   ,8I  I8P    I8  ,8'    8I  I8,   ,8I  I8   8I   8I 
+,d8b,_ ,d8b, ,d8I ,d8     I8,,dP     Y8,,d8b, ,d8I ,dP   8I   Yb,
+8P'"Y88P""Y88P"88888P     `Y88P      `Y8P""Y88P"8888P'   8I   `Y8
+             ,d8I'                            ,d8I'              
+           ,dP'8I                           ,dP'8I               
+          ,8"  8I                          ,8"  8I               
+          I8   8I                          I8   8I               
+          `8, ,8I                          `8, ,8I               
+           `Y8P"                            `Y8P"                
     </pre>
 </div>
 <div align=center>
