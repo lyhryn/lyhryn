@@ -19,7 +19,7 @@
 </div>
 <div align=center>
   <p>
-    Discord: <b>syr#3295</b>
+    Discord: <b>qqL#0001</b>
     </br>
     Matrix: <b>hoz:matrix.org</b>
     </br>
