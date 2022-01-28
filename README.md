@@ -23,7 +23,6 @@
     </br>
     Matrix: <b>hoz:matrix.org</b>
     </br>
-    <a href="https://discord.gg/ass"><b>.gg/ass</b></a>
    </p>
    <img src="https://c.tenor.com/Gpo0UNO4kn0AAAAC/rose-spinning.gif">
 </div>
