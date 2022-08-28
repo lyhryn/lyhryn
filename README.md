@@ -19,7 +19,7 @@
 </div>
 <div align=center>
   <p>
-    Matrix: <b>hoz:matrix.org</b>
+    Matrix: <b>6q:matrix.org</b>
     </br>
    </p>
    <img src="https://c.tenor.com/Gpo0UNO4kn0AAAAC/rose-spinning.gif">
